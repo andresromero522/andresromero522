@@ -8,7 +8,9 @@
 - 🚰 Maintenance of water distribution pumping systems
 - 📊 Data manipulation and transformation using Pandas and NumPy
 - 📈 Data visualization with Matplotlib and Seaborn
-- 
+- 🐘 Proficiency in PostgreSQL
+- ☁️ Strong foundation in AWS cloud computing
+- 🐍 ETL fundamentals using Python and Pentaho
 
 - ## Languages and tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -21,7 +23,9 @@
 <img align="left" alt="Postgresql" width="26px" src= "https://github.com/andresromero522/andresromero522/assets/128875661/c55183a0-c89e-440f-bd00-1206f1984fe8" />
 <img align="left" alt="AWS" width="26px" src= "https://github.com/andresromero522/andresromero522/assets/128875661/db93a87a-441b-4d47-9e34-daaccd271f02" />
 
-## Connect with me
+<br>
+
+- ## Connect with me
 [<img align="left" alt="andresromeroortega3 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="andres-romero-ortega-96913570 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
