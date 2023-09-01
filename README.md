@@ -1,8 +1,8 @@
-- ## 👋 Hi, I’m Andres Romero Ortega
+## 👋 Hi, I’m Andres Romero Ortega
   
-- ## 💻 I’m a Mechanical Engineer / Data Engineer in Training
+## 💻 I’m a Mechanical Engineer / Data Engineer in Training
 
-- ## Skills 🖥️
+## Skills 🖥️
   
 - 💥 Power Plant Equipment Maintenance
 - 🚰 Maintenance of water distribution pumping systems
@@ -12,7 +12,7 @@
 - ☁️ Strong foundation in AWS cloud computing
 - 🐍 ETL fundamentals using Python and Pentaho
 
-- ## Languages and tools:
+## Languages and tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Conda" width="26px" src="https://avatars2.githubusercontent.com/u/6392739?s=200&v=4" />
@@ -25,7 +25,7 @@
 
 <br>
 
-- ## Connect with me
+## Connect with me
 [<img align="left" alt="andresromeroortega3 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="andres-romero-ortega-96913570 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
