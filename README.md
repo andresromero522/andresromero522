@@ -29,7 +29,7 @@
 
 <!-- Abbreviationss -->
 [instagram]: https://www.instagram.com/andresromeroortega3/
-[linkedin]: linkedin.com/in/andres-romero-ortega-96913570
+[linkedin]: https://www.linkedin.com/in/andres-romero-ortega-96913570/
 <!---
 andresromero522/andresromero522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
